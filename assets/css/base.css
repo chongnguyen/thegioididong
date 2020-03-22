@@ -1,0 +1,38 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --text-color: #333;
+  --primary-color: #FED700;
+
+  --nav-height: 56px;
+  --logo-height: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #F0F0F0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+}
